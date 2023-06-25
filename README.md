@@ -53,4 +53,3 @@ To run the analysis, follow these steps:
    python3 reddit_weekends.py reddit-counts.json.gz
    ```
 
-6. The program will conduct the T-test, assess normality and variance, perform data transformations, apply the Central Limit Theorem, and conduct the Mann-Whitney U-test. The p
