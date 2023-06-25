@@ -28,7 +28,7 @@ Additionally, we perform a non-parametric Mann-Whitney U-test on the original, n
 
 ### Output
 
-The `reddit_weekends.py` program provides output in the format specified by the provided `reddit_weekends_hint.py` template. The output includes the p-values from the various tests conducted on the data, allowing for easy verification and comparison.
+The `reddit_weekends.py` program provides output. The output includes the p-values from the various tests conducted on the data, allowing for easy verification and comparison.
 
 ### Usage
 
